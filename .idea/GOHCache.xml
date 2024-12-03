@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="App">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/app/app.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AppError">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/code/error.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="AppService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/appservice/appservice.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Conf">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/conf/conf.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DB">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/conf/conf.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="DBConnectOpt">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/conf/conf.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Data">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/conf/conf.go" />
+              <option value="file://$PROJECT_DIR$/internal/data/data.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Entry">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go-ex/interview/algo/T20241111/safemap_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Handler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/handler/handler.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="LoginReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/api/v1/request/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Migrate">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/server/migration.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Redis">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/conf/conf.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RegisterReq">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/api/v1/request/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="RegisterResp">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/api/v1/reply/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SafeMap">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../go-ex/interview/algo/T20241111/safemap_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Server">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/conf/conf.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Service">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/domain/service/service.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="SessionInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/domain/do/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TokenInfo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/domain/do/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="TokenResp">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/api/v1/reply/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/data/model/user.go" />
+              <option value="file://$PROJECT_DIR$/internal/domain/do/user.go" />
+              <option value="file://$PROJECT_DIR$/test/foo_test.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserAppService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/appservice/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserHandler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/handler/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserRepo">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/data/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserService">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/domain/service/user.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="response">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/pkg/resp/resp.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/T20241111/safemap_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733034842551" />
+              <option name="schema">
+                <list>
+                  <option value="Entry" />
+                  <option value="SafeMap" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/T20241201/sort.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733191687449" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/T20241201/sort_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733195680148" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/T20241201/token_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733036484576" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/ans/leetcode/editor/cn/[121]买卖股票的最佳时机.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733037188259" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/ans/leetcode/editor/cn/[122]买卖股票的最佳时机 II.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733037433042" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/ans/leetcode/editor/cn/[169]多数元素.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733036314352" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/ans/leetcode/editor/cn/[189]轮转数组.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733108957207" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/ans/leetcode/editor/cn/[26]删除有序数组中的重复项.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733035819911" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/ans/leetcode/editor/cn/[27]移除元素.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733035600933" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/ans/leetcode/editor/cn/[45]跳跃游戏 II.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733107278877" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/ans/leetcode/editor/cn/[55]跳跃游戏.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733038260184" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/ans/leetcode/editor/cn/[80]删除有序数组中的重复项 II.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733108088251" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../go-ex/interview/algo/ans/leetcode/editor/cn/[88]合并两个有序数组.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733035365169" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/api/v1/reply/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733124260750" />
+              <option name="schema">
+                <list>
+                  <option value="RegisterResp" />
+                  <option value="TokenResp" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/api/v1/request/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733124331423" />
+              <option name="schema">
+                <list>
+                  <option value="RegisterReq" />
+                  <option value="LoginReq" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/cmd/ex1/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733114480881" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/cmd/ex1/wire.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733029048668" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/cmd/ex1/wire/wire.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733117565257" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/cmd/ex1/wire/wire_gen.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733031318186" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/cmd/migration/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733032622431" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/cmd/migration/wire/wire.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733031961398" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/app/app.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733028677447" />
+              <option name="schema">
+                <list>
+                  <option value="App" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/app/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733023904982" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/appservice/appservice.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733029048735" />
+              <option name="schema">
+                <list>
+                  <option value="AppService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/appservice/assembler/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733055165813" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/appservice/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733124452653" />
+              <option name="schema">
+                <list>
+                  <option value="UserAppService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/conf/conf.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733026625167" />
+              <option name="schema">
+                <list>
+                  <option value="Conf" />
+                  <option value="Server" />
+                  <option value="Data" />
+                  <option value="DB" />
+                  <option value="DBConnectOpt" />
+                  <option value="Redis" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/data/cache/cache.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733114924308" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/data/cache/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733122756047" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/data/convertor/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733054747708" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/data/data.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733027296032" />
+              <option name="schema">
+                <list>
+                  <option value="Data" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/data/model/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733059582967" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/data/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733110701301" />
+              <option name="schema">
+                <list>
+                  <option value="UserRepo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/domain/do/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733111844771" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                  <option value="SessionInfo" />
+                  <option value="TokenInfo" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/domain/enum/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733121610087" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/domain/repo/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733110786410" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/domain/service/service.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733024233275" />
+              <option name="schema">
+                <list>
+                  <option value="Service" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/domain/service/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733124104304" />
+              <option name="schema">
+                <list>
+                  <option value="UserService" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/handler/handler.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733027571151" />
+              <option name="schema">
+                <list>
+                  <option value="Handler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/handler/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733124723778" />
+              <option name="schema">
+                <list>
+                  <option value="UserHandler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/server/http.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733190667091" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/server/migration.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733032572190" />
+              <option name="schema">
+                <list>
+                  <option value="Migrate" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/code/code.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733121958376" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/code/error.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733111666749" />
+              <option name="schema">
+                <list>
+                  <option value="AppError" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/code/user.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733124062152" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/resp/resp.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733059725880" />
+              <option name="schema">
+                <list>
+                  <option value="response" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/util/copy.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733033852142" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/util/encrypt.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733123994985" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/util/token.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733111109559" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/pkg/validator/trans.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733059078864" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/test/foo_test.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733106384644" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$USER_HOME$/go/src/github.com/kackerx/todo/cmd/server/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1733025617407" />
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="app" value="App" />
+        <entry key="app_error" value="AppError" />
+        <entry key="app_service" value="AppService" />
+        <entry key="conf" value="Conf" />
+        <entry key="data" value="Data" />
+        <entry key="db" value="DB" />
+        <entry key="db_connect_opt" value="DBConnectOpt" />
+        <entry key="entry" value="Entry" />
+        <entry key="handler" value="Handler" />
+        <entry key="login_req" value="LoginReq" />
+        <entry key="migrate" value="Migrate" />
+        <entry key="redis" value="Redis" />
+        <entry key="register_req" value="RegisterReq" />
+        <entry key="register_resp" value="RegisterResp" />
+        <entry key="response" value="response" />
+        <entry key="safe_map" value="SafeMap" />
+        <entry key="server" value="Server" />
+        <entry key="service" value="Service" />
+        <entry key="session_info" value="SessionInfo" />
+        <entry key="token_info" value="TokenInfo" />
+        <entry key="token_resp" value="TokenResp" />
+        <entry key="user" value="User" />
+        <entry key="user_app_service" value="UserAppService" />
+        <entry key="user_handler" value="UserHandler" />
+        <entry key="user_repo" value="UserRepo" />
+        <entry key="user_service" value="UserService" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1733022496601" />
+  </component>
+</project>
